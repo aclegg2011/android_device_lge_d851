@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d851.mk
+    $(LOCAL_DIR)/bliss_d851.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_d851-userdebug \
-    lineage_d851-eng \
-    lineage_d851-user
+    bliss_d851-userdebug \
+    bliss_d851-eng \
+    bliss_d851-user
